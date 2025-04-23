@@ -1,3 +1,3 @@
-# Week 13
+# Week 13 - Complete
 
 Image Neural Networks
